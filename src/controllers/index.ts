@@ -7,3 +7,4 @@ export * from './producto.controller';
 export * from './pedido.controller';
 export * from './empresa.controller';
 export * from './notificaciones.controller';
+export * from './notificacion-correo-electronico.controller';
